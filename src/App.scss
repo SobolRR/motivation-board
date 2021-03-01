@@ -1,0 +1,53 @@
+.progressbar {
+    display: flex;
+    width: 80vw;
+    height: 4rem;
+    border: 3px solid grey;
+    margin: 0px auto;
+    position: relative;
+
+    & .plan-marker {
+        content: "";
+        display: block;
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        clip-path: polygon(100% 0, 0 2%, 50% 100%);
+        top: 0;
+        background-color: rgb(245, 69, 16);
+
+    }
+
+
+
+}
+
+.x-axis {
+    display: flex;
+    margin: 0px auto;
+    width: 80vw;
+    position: relative;
+
+}
+
+.point {
+    display: block;
+
+    &__number {
+        position: absolute;
+        //right: -24px;
+
+        // &::after {
+        //     content:"";
+        //     display: inline-block;
+        //     position: absolute;
+        //     width:5px;
+        //     height:10px;
+        //     background-color: black;
+        //     right:50%;
+        //     top:-1rem;
+        // }
+    }
+
+
+}
