@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/motivation-board/static/css/main.9e386c2e.chunk.css",
+    "main.js": "/motivation-board/static/js/main.0cd8160a.chunk.js",
+    "main.js.map": "/motivation-board/static/js/main.0cd8160a.chunk.js.map",
+    "runtime-main.js": "/motivation-board/static/js/runtime-main.fd04634f.js",
+    "runtime-main.js.map": "/motivation-board/static/js/runtime-main.fd04634f.js.map",
+    "static/css/2.fc2db407.chunk.css": "/motivation-board/static/css/2.fc2db407.chunk.css",
+    "static/js/2.f2b3c718.chunk.js": "/motivation-board/static/js/2.f2b3c718.chunk.js",
+    "static/js/2.f2b3c718.chunk.js.map": "/motivation-board/static/js/2.f2b3c718.chunk.js.map",
+    "index.html": "/motivation-board/index.html",
+    "static/css/2.fc2db407.chunk.css.map": "/motivation-board/static/css/2.fc2db407.chunk.css.map",
+    "static/css/main.9e386c2e.chunk.css.map": "/motivation-board/static/css/main.9e386c2e.chunk.css.map",
+    "static/js/2.f2b3c718.chunk.js.LICENSE.txt": "/motivation-board/static/js/2.f2b3c718.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd04634f.js",
+    "static/css/2.fc2db407.chunk.css",
+    "static/js/2.f2b3c718.chunk.js",
+    "static/css/main.9e386c2e.chunk.css",
+    "static/js/main.0cd8160a.chunk.js"
+  ]
+}
