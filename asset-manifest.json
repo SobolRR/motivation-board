@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/motivation-board/static/css/main.efd3a146.chunk.css",
-    "main.js": "/motivation-board/static/js/main.2b6595d4.chunk.js",
-    "main.js.map": "/motivation-board/static/js/main.2b6595d4.chunk.js.map",
+    "main.js": "/motivation-board/static/js/main.d173abdf.chunk.js",
+    "main.js.map": "/motivation-board/static/js/main.d173abdf.chunk.js.map",
     "runtime-main.js": "/motivation-board/static/js/runtime-main.fd04634f.js",
     "runtime-main.js.map": "/motivation-board/static/js/runtime-main.fd04634f.js.map",
     "static/css/2.fc2db407.chunk.css": "/motivation-board/static/css/2.fc2db407.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.fc2db407.chunk.css",
     "static/js/2.9bda2deb.chunk.js",
     "static/css/main.efd3a146.chunk.css",
-    "static/js/main.2b6595d4.chunk.js"
+    "static/js/main.d173abdf.chunk.js"
   ]
 }
