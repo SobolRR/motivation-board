@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/motivation-board/static/css/main.31faf874.chunk.css",
-    "main.js": "/motivation-board/static/js/main.8ce4f83d.chunk.js",
-    "main.js.map": "/motivation-board/static/js/main.8ce4f83d.chunk.js.map",
+    "main.js": "/motivation-board/static/js/main.74a23140.chunk.js",
+    "main.js.map": "/motivation-board/static/js/main.74a23140.chunk.js.map",
     "runtime-main.js": "/motivation-board/static/js/runtime-main.fd04634f.js",
     "runtime-main.js.map": "/motivation-board/static/js/runtime-main.fd04634f.js.map",
     "static/css/2.fc2db407.chunk.css": "/motivation-board/static/css/2.fc2db407.chunk.css",
-    "static/js/2.a811005e.chunk.js": "/motivation-board/static/js/2.a811005e.chunk.js",
-    "static/js/2.a811005e.chunk.js.map": "/motivation-board/static/js/2.a811005e.chunk.js.map",
+    "static/js/2.b64db5d8.chunk.js": "/motivation-board/static/js/2.b64db5d8.chunk.js",
+    "static/js/2.b64db5d8.chunk.js.map": "/motivation-board/static/js/2.b64db5d8.chunk.js.map",
     "index.html": "/motivation-board/index.html",
     "static/css/2.fc2db407.chunk.css.map": "/motivation-board/static/css/2.fc2db407.chunk.css.map",
     "static/css/main.31faf874.chunk.css.map": "/motivation-board/static/css/main.31faf874.chunk.css.map",
-    "static/js/2.a811005e.chunk.js.LICENSE.txt": "/motivation-board/static/js/2.a811005e.chunk.js.LICENSE.txt",
+    "static/js/2.b64db5d8.chunk.js.LICENSE.txt": "/motivation-board/static/js/2.b64db5d8.chunk.js.LICENSE.txt",
     "static/media/fire.42d52aef.gif": "/motivation-board/static/media/fire.42d52aef.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.fd04634f.js",
     "static/css/2.fc2db407.chunk.css",
-    "static/js/2.a811005e.chunk.js",
+    "static/js/2.b64db5d8.chunk.js",
     "static/css/main.31faf874.chunk.css",
-    "static/js/main.8ce4f83d.chunk.js"
+    "static/js/main.74a23140.chunk.js"
   ]
 }
